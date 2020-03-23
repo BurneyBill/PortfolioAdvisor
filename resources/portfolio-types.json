@@ -1,0 +1,85 @@
+{
+    "portfolios": [
+	{ "portfolioNumber":"1", 
+		"categories": [ 
+			{"name":"Bonds","value":80}, 
+			{"name":"Large Cap","value":20}, 
+			{"name":"Mid Cap","value":0}, 
+			{"name":"Foreign","value":0}, 
+			{"name":"Small Cap","value":0} ]},
+			
+	{ "portfolioNumber":"2",
+		"categories": [ 
+			{"name":"Bonds","value":70}, 
+			{"name":"Large Cap","value":15}, 
+			{"name":"Mid Cap","value":15}, 
+			{"name":"Foreign","value":0}, 
+			{"name":"Small Cap","value":0} ]},
+			
+	{ "portfolioNumber":"3",
+		"categories": [ 
+			{"name":"Bonds","value":60}, 
+			{"name":"Large Cap","value":15}, 
+			{"name":"Mid Cap","value":15}, 
+			{"name":"Foreign","value":10}, 
+			{"name":"Small Cap","value":0} ]},
+	
+	{ "portfolioNumber":"4",
+		"categories": [ 
+			{"name":"Bonds","value":50}, 
+			{"name":"Large Cap","value":20}, 
+			{"name":"Mid Cap","value":20}, 
+			{"name":"Foreign","value":10}, 
+			{"name":"Small Cap","value":0} ]},
+	
+	{ "portfolioNumber":"5",
+		"categories": [ 
+			{"name":"Bonds","value":40}, 
+			{"name":"Large Cap","value":20}, 
+			{"name":"Mid Cap","value":20}, 
+			{"name":"Foreign","value":20}, 
+			{"name":"Small Cap","value":0} ]},
+		
+	{ "portfolioNumber":"6",
+		"categories": [ 
+			{"name":"Bonds","value":35}, 
+			{"name":"Large Cap","value":25}, 
+			{"name":"Mid Cap","value":5}, 
+			{"name":"Foreign","value":30}, 
+			{"name":"Small Cap","value":5} ]},
+	
+	{ "portfolioNumber":"7",
+		"categories": [ 
+			{"name":"Bonds","value":20}, 
+			{"name":"Large Cap","value":25}, 
+			{"name":"Mid Cap","value":25}, 
+			{"name":"Foreign","value":25}, 
+			{"name":"Small Cap","value":5} ]},
+	
+	{ "portfolioNumber":"8",
+		"categories": [ 
+			{"name":"Bonds","value":10}, 
+			{"name":"Large Cap","value":20}, 
+			{"name":"Mid Cap","value":40}, 
+			{"name":"Foreign","value":20},
+			{"name":"Small Cap","value":10} ]},
+	
+	{ "portfolioNumber":"9",
+		"categories": [ 
+			{"name":"Bonds","value":5}, 
+			{"name":"Large Cap","value":15}, 
+			{"name":"Mid Cap","value":40}, 
+			{"name":"Foreign","value":25}, 
+			{"name":"Small Cap","value":15} ]},
+	
+	{ "portfolioNumber":"10",
+		"categories": [ 
+			{"name":"Bonds","value":0}, 
+			{"name":"Large Cap","value":5}, 
+			{"name":"Mid Cap","value":25}, 
+			{"name":"Foreign","value":30}, 
+			{"name":"Small Cap","value":40} ]}
+    ],
+    
+    "categoryNames": ["Bonds", "Large Cap", "Mid Cap", "Foreign", "Small Cap"]
+}

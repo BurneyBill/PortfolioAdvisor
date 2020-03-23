@@ -1,0 +1,7 @@
+Assumptions
+
+* Part 2, assume that there is a deviation to allocation matching risk portfolio such that as long
+     as current allocation is within some percentage then no suggested reallocation is needed.
+     Adding a constant to define the deviation percentage.
+     
+* Part 2, assuming that all category vales are 0 or positive
